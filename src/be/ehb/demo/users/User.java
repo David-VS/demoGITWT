@@ -1,4 +1,4 @@
-package be.ehb.demo;
+package be.ehb.demo.users;
 
 public class User {
 
